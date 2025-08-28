@@ -68,6 +68,9 @@
 - O mundo assombrado por demonios 
 - 99 Bootles of OOP
 - Elegant Objects
+- Retórica
+- O Principe maquiável 
+- Ética a nicômaco
 
 
 
