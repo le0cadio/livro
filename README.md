@@ -3,13 +3,12 @@
 
 ### Quero ler
 - Marco Aurélio - Meditações 
-- As Regras de David X - OK
 - O livro negro do networking Jeffrey gitomer
 - As armas da persuasão 
 - Manual de persuasão do FBI 
 - Magnetismo pessoal 
 - How to solve it (A arte de resolver problemas) 
-C- omece pelo porquê (simon sinek)
+- Comece pelo porquê (simon sinek)
 - Os segredos da mente milionaria(T. Harv eker)
 - Empresas feitas pra vencer (Jim Collis)
 - Antifrágil(Nassim Taleb)
@@ -23,15 +22,12 @@ C- omece pelo porquê (simon sinek)
 - Os axiomas de zurique(Max Gunther)
 - Narrative and numbers(Aswath Damodaran)
 - A psicologia Financeira (Morgan House l)
-- Pai rico pai pobre(Robert Kiyosaki)
 - O jeito Warren Buffett de insvestir(Robert Hagstrom)
 - O jeito peter lynch de invstir(Robert Hagstrom)
 -  O investidor de bom senso(John Bogle)
 -  Pense e enriqueça(Napoleon Hill)
--  Como fazer amigos e enfluenciar Pessoas(Dale Carnegie)
 - O poder do hábito(Charles Duhigg)
- - A arte da guerra(Sun Tzu)
- - O homem mais rico da Babilônia(George S.Clason)
+- A arte da guerra(Sun Tzu)
 - O livro de Provérbios(Salomão)
 - As Leis do Triunfo 
 -  Micro habitos: as pequenas mudanças que mudam tudo 
@@ -51,18 +47,17 @@ C- omece pelo porquê (simon sinek)
 - os irmaos karamavoski 
 - Clean Code 
 - Refactoring
-- Pragmatic Programmer
 - Fundamentals of software architecture (avançado)
 - Software architecture the hard parts (avançado)
 - Entendendo Algoritmos
-- Cracking the code interview (Entrar para Fang)
-- System Design interview (Entrar para fang)
+- Cracking the code interview
+- System Design interview
 - The art of doing science and engineering
 - The mythical man-month
 - SICP 
 - Extreme programming explained
 - Designing data-intensive applications 
-- Modern operating Systems (1000 paginas)
+- Modern operating Systems
 - DDD - Livro vermelho
 - Microservices Patterns
 - Introduction to Algorithms third edition
@@ -78,8 +73,12 @@ C- omece pelo porquê (simon sinek)
 
 ### Lendo 
 - O pequeno principe 
+- Pragmatic Programmer
 
 ### Lidos
-- Steve jobs - Biografia
-- Como steve jobs criou steve jobs
-- Como fazer amigos e influenciar pessoas
+- Steve Jobs - ⭐️⭐️⭐️⭐️⭐️
+- Como steve jobs criou steve jobs - ⭐️⭐️⭐️⭐️
+- Como fazer amigos e influenciar pessoas - ⭐️⭐️⭐️⭐️⭐️
+- As Regras de David X - ⭐️
+- Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
+ - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
