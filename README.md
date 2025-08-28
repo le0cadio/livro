@@ -1,6 +1,15 @@
 # Livros
 
 
+### Lidos
+- Steve Jobs - ⭐️⭐️⭐️⭐️⭐️
+- Como steve jobs criou steve jobs - ⭐️⭐️⭐️⭐️
+- Como fazer amigos e influenciar pessoas - ⭐️⭐️⭐️⭐️⭐️
+- As Regras de David X - ⭐️
+- Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
+ - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
+
+ 
 ### Quero ler
 - Marco Aurélio - Meditações 
 - O livro negro do networking Jeffrey gitomer
@@ -78,10 +87,3 @@
 - O pequeno principe 
 - Pragmatic Programmer
 
-### Lidos
-- Steve Jobs - ⭐️⭐️⭐️⭐️⭐️
-- Como steve jobs criou steve jobs - ⭐️⭐️⭐️⭐️
-- Como fazer amigos e influenciar pessoas - ⭐️⭐️⭐️⭐️⭐️
-- As Regras de David X - ⭐️
-- Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
- - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
