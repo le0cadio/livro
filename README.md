@@ -7,7 +7,8 @@
 - Como fazer amigos e influenciar pessoas - ⭐️⭐️⭐️⭐️⭐️
 - As Regras de David X - ⭐️
 - Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
- - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
+- O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
+- O pequeno principe - ⭐️⭐️⭐️⭐️⭐️
 
  
 ### Quero ler
@@ -15,7 +16,6 @@
 - O livro negro do networking Jeffrey gitomer
 - As armas da persuasão 
 - Manual de persuasão do FBI 
-- Magnetismo pessoal 
 - How to solve it (A arte de resolver problemas) 
 - Comece pelo porquê (simon sinek)
 - Os segredos da mente milionaria(T. Harv eker)
@@ -58,7 +58,6 @@
 - Refactoring
 - Fundamentals of software architecture (avançado)
 - Software architecture the hard parts (avançado)
-- Entendendo Algoritmos
 - Cracking the code interview
 - System Design interview
 - The art of doing science and engineering
@@ -84,6 +83,7 @@
 
 
 ### Lendo 
-- O pequeno principe 
-- Pragmatic Programmer
 
+- Pragmatic Programmer
+- Entendendo Algoritmos
+- Magnetismo pessoal 
