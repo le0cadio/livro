@@ -87,3 +87,5 @@
 - Pragmatic Programmer
 - Entendendo Algoritmos
 - Magnetismo pessoal 
+- A Mágica de pensar grande
+- Do que eu falo quando eu falo de corrida 
