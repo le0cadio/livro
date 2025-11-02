@@ -9,6 +9,8 @@
 - Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
 - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
 - O pequeno principe - ⭐️⭐️⭐️⭐️⭐️
+- Do que eu falo quando eu falo de corrida ⭐️⭐️⭐️⭐️
+
 
  
 ### Quero ler
@@ -88,4 +90,3 @@
 - Entendendo Algoritmos
 - Magnetismo pessoal 
 - A Mágica de pensar grande
-- Do que eu falo quando eu falo de corrida 
