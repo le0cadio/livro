@@ -18,6 +18,7 @@
 
  
 ### Quero ler
+- Senhor dos anéis (3 livros)
 - Marco Aurélio - Meditações 
 - O livro negro do networking Jeffrey gitomer
 - As armas da persuasão 
