@@ -2,6 +2,8 @@
 
 
 ### Lidos
+- A psicologia Financeira (Morgan House l) -  ⭐️⭐️⭐️⭐️
+- Magnetismo pessoal - ⭐️⭐️⭐️
 - Steve Jobs - ⭐️⭐️⭐️⭐️⭐️
 - Como steve jobs criou steve jobs - ⭐️⭐️⭐️⭐️
 - Como fazer amigos e influenciar pessoas - ⭐️⭐️⭐️⭐️⭐️
@@ -9,7 +11,9 @@
 - Pai rico pai pobre(Robert Kiyosaki) - ⭐️⭐️⭐️
 - O homem mais rico da Babilônia(George S.Clason) - ⭐️⭐️⭐️⭐️⭐️
 - O pequeno principe - ⭐️⭐️⭐️⭐️⭐️
-- Do que eu falo quando eu falo de corrida ⭐️⭐️⭐️⭐️
+- Do que eu falo quando eu falo de corrida - ⭐️⭐️⭐️
+- O poder do hábito(Charles Duhigg) -  ⭐️⭐️⭐️⭐️
+-  A Revolução dos Bichos - ⭐️⭐️⭐️⭐️
 
 
  
@@ -17,7 +21,7 @@
 - Marco Aurélio - Meditações 
 - O livro negro do networking Jeffrey gitomer
 - As armas da persuasão 
-- Manual de persuasão do FBI 
+- Manual de persuasão do FBI
 - How to solve it (A arte de resolver problemas) 
 - Comece pelo porquê (simon sinek)
 - Os segredos da mente milionaria(T. Harv eker)
@@ -26,18 +30,16 @@
 - The changing world order(Ray Dalio)
 - A lógica do cisne negro(Nassim Taleb)
 - O efeito composto(Darren Hardy)
-- O investidor Inteligente(Benjamim Graham)
+- O investidor Inteligente(Benjamim Graham) 
 - The litlle book that beats the market(Joel Greenblatt)
 - Ações comuns,lucros extraordinários(Philip Fisher)
 - Do mil ao milhão(Thiago Nigro)
 - Os axiomas de zurique(Max Gunther)
 - Narrative and numbers(Aswath Damodaran)
-- A psicologia Financeira (Morgan House l)
 - O jeito Warren Buffett de insvestir(Robert Hagstrom)
 - O jeito peter lynch de invstir(Robert Hagstrom)
--  O investidor de bom senso(John Bogle)
--  Pense e enriqueça(Napoleon Hill)
-- O poder do hábito(Charles Duhigg)
+- O investidor de bom senso(John Bogle)
+- Pense e enriqueça (Napoleon Hill)
 - A arte da guerra(Sun Tzu)
 - O livro de Provérbios(Salomão)
 - As Leis do Triunfo 
@@ -51,15 +53,14 @@
 -  Davi e Golias
 -  O Poder do Subconsciente 
 -  Outlive: a arte e ciencia de viver mais e melhor
--  A Revolução dos Bichos
 - O idiota dotovkski
 - Noites brancas
 - Cartas para o meu pai
 - os irmaos karamavoski 
 - Clean Code 
 - Refactoring
-- Fundamentals of software architecture (avançado)
-- Software architecture the hard parts (avançado)
+- Fundamentals of software architecture
+- Software architecture the hard parts
 - Cracking the code interview
 - System Design interview
 - The art of doing science and engineering
@@ -81,6 +82,7 @@
 - Retórica
 - O Principe maquiável 
 - Ética a nicômaco
+- Flow - a psicologia do alto desempenho e da felicidade
 
 
 
@@ -88,5 +90,5 @@
 
 - Pragmatic Programmer
 - Entendendo Algoritmos
-- Magnetismo pessoal 
 - A Mágica de pensar grande
+- Responsabilidade extrema - Como navy seals lideram e vencem.
