@@ -14,6 +14,7 @@
 - Do que eu falo quando eu falo de corrida - ⭐️⭐️⭐️
 - O poder do hábito(Charles Duhigg) -  ⭐️⭐️⭐️⭐️
 -  A Revolução dos Bichos - ⭐️⭐️⭐️⭐️
+- Responsabilidade extrema - Como navy seals lideram e vencem. ⭐️⭐️⭐️⭐️
 
 
  
@@ -92,4 +93,4 @@
 - Pragmatic Programmer
 - Entendendo Algoritmos
 - A Mágica de pensar grande
-- Responsabilidade extrema - Como navy seals lideram e vencem.
+
