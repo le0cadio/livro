@@ -15,6 +15,8 @@
 - O poder do hábito(Charles Duhigg) -  ⭐️⭐️⭐️⭐️
 -  A Revolução dos Bichos - ⭐️⭐️⭐️⭐️
 - Responsabilidade extrema - Como navy seals lideram e vencem. ⭐️⭐️⭐️⭐️
+- A Mágica de pensar grande - ⭐️⭐️⭐️
+- Flow a psicologia da felicidade - ⭐️⭐️
 
 
  
@@ -84,7 +86,6 @@
 - Retórica
 - O Principe maquiável 
 - Ética a nicômaco
-- Flow - a psicologia do alto desempenho e da felicidade
 
 
 
@@ -92,5 +93,6 @@
 
 - Pragmatic Programmer
 - Entendendo Algoritmos
-- A Mágica de pensar grande
+- O Hobbit
+
 
